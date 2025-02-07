@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhanu2922
-- 👀 I’m interested in MERN full stack web developer
+- 👀 I’m interested in Front End web developer
 - 🌱 I’m currently learning MERN web dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhanusahoo291100@gmail.com
